@@ -1,2 +1,4 @@
-ios:
+iOS:
 - '*'
+documentation:
+- 'README.md'
