@@ -1,4 +1,4 @@
 iOS:
-- qr-code/**/*
+- '*'
 documentation:
 - 'README.md'
